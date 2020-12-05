@@ -11,4 +11,10 @@ Sample project to show different part of Git repository and various.
 purpose to learn all features of Git and integration with GitHub
 
 ##Deployment
-this is sample web project, Deployment on any server.
+we will host this on IIS server only for now.
+
+##Testing
+we will use automation to test functions of site.
+
+##Operation
+we need to analyse any tool to monitor site.

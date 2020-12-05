@@ -11,3 +11,4 @@ Sample project to show different part of Git repository and various.
 purpose to learn all features of Git and integration with GitHub
 
 ##Deployment
+this is sample web project, Deployment on any server.

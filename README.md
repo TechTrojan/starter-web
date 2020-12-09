@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 sample project to learn how to use git to manage source.
+Adding a line for rebasing example.
 
 
 ##Introduction 

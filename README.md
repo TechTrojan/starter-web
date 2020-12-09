@@ -2,7 +2,7 @@
 
 sample project to learn how to use git to manage source.
 Adding a line for rebasing example.
-
+more changes from myfeature branch too.
 
 ##Introduction 
 Sample project to show different part of Git repository and various.

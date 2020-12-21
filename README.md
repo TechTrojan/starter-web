@@ -22,4 +22,4 @@ we need to analyse any tool to monitor site.
 
 
 ###Copyright
-2020 Git training
+2020 Git training. All right reserved.
